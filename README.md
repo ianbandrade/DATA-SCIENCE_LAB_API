@@ -9,6 +9,10 @@ gunicorn app:app
 
 Server listening at http://127.0.0.1:8000
 
+## Outputs
+
+For `outputs` folder, you must run this [Jupyter Notebook](https://colab.research.google.com/drive/1xFxOXfDYlMbUCPrxSaOzvHKmxx2cihAE?usp=sharing) and download it
+
 ## How use
 
 ```Bash
